@@ -1,4 +1,6 @@
-const yargs = require("yargs");
+#! /usr/bin/env node
+
+const yargs = require('yargs');
 
 const usage = "\nUsage: ctxt <text>";
 const options = yargs
