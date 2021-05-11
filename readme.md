@@ -1,6 +1,9 @@
-# center-text-cli
-An npm module that will center text for you!
 
+[![license](https://img.shields.io/badge/license-WTFPL-%23000000)](http://www.wtfpl.net/)
+[![npm version](https://img.shields.io/npm/v/center-text-cli?logo=npm)](https://www.npmjs.com/package/center-text-cli)
+
+# center-text-cli
+An [npm package](https://www.npmjs.com/package/center-text-cli) that will center text for you!
 ## Installation
 
 1. Install the package.
