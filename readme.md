@@ -12,6 +12,13 @@ $ npm i -g center-text-cli
 $ ctxt text goes here
 ```
 
+---
+
+## Usage
+![options](https://github.com/acidicnic/center-text-cli/blob/main/readme-images/options.png?raw=true)
+
+---
+
 ## Examples
 
 Multi-line text, with options. (padding: 4 and length: 28)
