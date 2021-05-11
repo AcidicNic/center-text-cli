@@ -1,6 +1,6 @@
 {
   "name": "center-text-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Center text in your command line!",
   "main": "./bin/index.js",
   "keywords": [
